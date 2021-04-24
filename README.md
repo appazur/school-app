@@ -73,5 +73,5 @@ __Twitter__
 Your tweets can automatically be seen in the app, and optionally notify users.
 
 <div style="display:none">
-    <img src="http://appazur.appazur.com/djga/google-analytics/?ua=1&p=!github!school-app" width="0" height="0" />
+    <!-- <img src=".../djga/google-analytics/?ua=1&p=!github!school-app" width="0" height="0" /> -->
 </div>
